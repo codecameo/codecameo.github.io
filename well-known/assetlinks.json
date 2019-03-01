@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.devdec.yapparty",
-    "sha256_cert_fingerprints":
-    ["0F:BD:8C:71:8F:CB:DF:34:B9:C4:D4:B3:35:90:15:16:B8:C6:A4:9A:06:4D:FD:13:7B:44:28:7E:29:76:19:2F"]
-  }
-}]
